@@ -1,8 +1,7 @@
-# IntelliJ  。。。。
+# IntelliJ
 .idea/
 out/
 *.iml
-
 
 ### Java-Web ###
 target/
